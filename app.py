@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 # Set page configuration and load API key
 st.set_page_config(page_title="helP - PDF Helper", layout="wide", page_icon="📄")
 load_dotenv()
-os.environ['NVIDIA_API_KEY'] = "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"
+os.environ['NVIDIA_API_KEY'] = "API_KEY"
 
 # NVIDIA green theme styling
 st.markdown(
