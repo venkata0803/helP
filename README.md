@@ -1,4 +1,4 @@
-# helP - PDF Helper Chatbot 📄
+# helP - PDF Helper Chatbot 
 
 helP is a PDF-based question-answering chatbot built using Streamlit and Retrieval-Augmented Generation (RAG).
 
